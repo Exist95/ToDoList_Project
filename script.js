@@ -34,5 +34,5 @@ function(){
     }
     
     document.querySelector("#newtask input").value = "";
-  }
+    }
 }
